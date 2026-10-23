@@ -23,6 +23,6 @@ Formações e certificações que estou estudando para obter:
   - Introdução à Análise de Malware v1.
   - Segurança Operacional e Anonimato para Equipes Vermelhas.
 
-E tenho enteresse em fazer Microsoft SC-900 não ensina todas as proteções da Microsoft em profundidade.
+E tenho enteresse em fazer Microsoft SC-900
 
 Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minhas anotações, documentar conceitos técnicos e registrar meus aprendizados. Acredito que escrever, revisar e explicar os conteúdos com minhas próprias palavras são práticas importantes para desenvolver uma compreensão mais profunda dos assuntos estudados.
