@@ -1,3 +1,10 @@
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+pointerbr;Estudante+de+Cybersegurança;Offensive+%26+Defensive+Security)](https://git.io/typing-svg)
+
+</div>
+
 # Sobre mim
 
 Olá! Sou estudante de Cibersegurança, com foco em Segurança Ofensiva e Defensiva, e tenho como principal objetivo profissional me tornar Pentester e atuar na área de segurança da informação. Também estudo desenvolvimento de software, buscando aprofundar meus conhecimentos em programação, sistemas operacionais, redes e análise de vulnerabilidades.
