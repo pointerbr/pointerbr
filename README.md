@@ -30,19 +30,19 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 
 
 
-# 💻 Linguagens de Programação
+## 💻 Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
-# 🌐 Web Development & Web Server
+## 🌐 Web Development & Web Server
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-# ⚔️ Offensive Security
+## ⚔️ Offensive Security
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white)
@@ -52,11 +52,11 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 ![SQLmap](https://img.shields.io/badge/SQLmap-222222?style=for-the-badge&logoColor=white)
 
 
-# 🛡️ Defensive Security
+## 🛡️ Defensive Security
 
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logoColor=white)
 ![PortSentry](https://img.shields.io/badge/PortSentry-455A64?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-# 🔬 Vulnerability Assessment & Forensics
+## 🔬 Vulnerability Assessment & Forensics
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge&logoColor=white)
