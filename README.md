@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+pointerbr;Estudante+de+Cybersegurança;Offensive+%26+Defensive+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+pointerbr;Eu+sou+estudante+de+cybersgurança;Offensive+%26+Defensive+Security;Eu+sou+do+Brazil)](https://git.io/typing-svg)
 
 </div>
 
