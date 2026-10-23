@@ -61,3 +61,13 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 
 ## 🔬 Vulnerability Assessment & Forensics
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge&logoColor=white)
+
+
+## 💻 Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrot&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+
