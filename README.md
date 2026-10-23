@@ -63,6 +63,7 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 ![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logoColor=white)
 ![PortSentry](https://img.shields.io/badge/PortSentry-455A64?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🔬 Vulnerability Assessment & Forensics
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge&logoColor=white)
