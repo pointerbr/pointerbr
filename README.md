@@ -30,5 +30,6 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 
 
 
-#languagens
+# linguagens
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
