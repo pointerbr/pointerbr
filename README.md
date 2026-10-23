@@ -50,7 +50,8 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-555555?style=for-the-badge&logoColor=white)
 ![Hydra](https://img.shields.io/badge/THC--Hydra-B22222?style=for-the-badge&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-222222?style=for-the-badge&logoColor=white)
-
+![Gobuster](https://img.shields.io/badge/Gobuster-6E4C1E?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white)
 
 ## 🛡️ Defensive Security
 
