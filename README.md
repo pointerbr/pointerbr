@@ -2,7 +2,7 @@
 
 Olá! Sou estudante de Cibersegurança, com foco em Segurança Ofensiva e Defensiva, e tenho como principal objetivo profissional me tornar Pentester e atuar na área de segurança da informação. Também estudo desenvolvimento de software, buscando aprofundar meus conhecimentos em programação, sistemas operacionais, redes e análise de vulnerabilidades.
 
-Atualmente, estudo e pratico programação com Bash Scripting, PowerShell, C, Assembly, Python e Go (Golang). Também estou estudando HTML e CSS e tenho interesse em expandir meus conhecimentos para JavaScript, C++, COBOL, Pascal é C#
+Atualmente, estudo e pratico programação com Bash Scripting, PowerShell, C, Assembly, Python e Go (Golang). Também estou estudando HTML e CSS e tenho enteresse em expandir meus conhecimentos para JavaScript, C++, COBOL, Pascal e C#
 
 Na área de cibersegurança, mantenho uma rotina de estudos que envolve diferentes cursos e trilhas de aprendizagem, incluindo:
 
