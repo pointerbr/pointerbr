@@ -36,9 +36,10 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 
 ## 🖥️ Scripting & Automation
 
-[PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PowerShell Scripting](https://img.shields.io/badge/PowerShell_Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ## 🌐 Web Development & Web Server
 
