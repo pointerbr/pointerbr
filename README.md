@@ -26,3 +26,9 @@ Formações e certificações que estou estudando para obter:
 E tenho enteresse em fazer Microsoft SC-900
 
 Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minhas anotações, documentar conceitos técnicos e registrar meus aprendizados. Acredito que escrever, revisar e explicar os conteúdos com minhas próprias palavras são práticas importantes para desenvolver uma compreensão mais profunda dos assuntos estudados.
+
+
+
+
+#languagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
