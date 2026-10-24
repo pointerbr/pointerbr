@@ -89,6 +89,12 @@ Para consolidar o conhecimento adquirido, utilizo o Obsidian para organizar minh
 
 ## 📧 Contato
 
+[![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=session&logoColor=white)](https://getsession.org/)
+
+**Session ID:**
+`05812fe69b239f688321012af077dc6e508f8eb563339c2f2e329cfc9532ca856f`
+
+
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:claiton2982828@proton.me)
 
 **E-mail:** claiton2982828@proton.me
